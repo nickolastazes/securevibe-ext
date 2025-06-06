@@ -116,9 +116,9 @@ SecureVibe is completely free.
 
 ### Getting Help
 
-- 📧 Email: [hey@watchen.xyz]
-- 🌐 Website: [https://securevibe.org]
-- 💬 Social: [https://x.com/watchen_xyz]
+- 📧 Email: hey@watchen.xyz
+- 🌐 Website: https://securevibe.org
+- 💬 Social: https://x.com/watchen_xyz
 
 ### FAQ
 
@@ -136,7 +136,7 @@ A: Yes! Select multiple files in the sidebar and run analysis on all of them sim
 
 ## 📄 License
 
-This project is licensed under the [LICENSE-TYPE] License - see the [LICENSE](LICENSE) file for details.
+See the [LICENSE](LICENSE) file for details.
 
 ## 🏢 About Watchen.xyz
 
